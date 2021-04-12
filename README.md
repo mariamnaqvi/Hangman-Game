@@ -1,5 +1,5 @@
 
-### Hangman Game
+# Hangman Game
 
 ## Project Description
 
@@ -8,7 +8,7 @@ letters in the word in 10 guesses.
 
 The game will created in Python 
 
-# Project Requirements
+## Project Requirements
 - dictionary of words
 - guess counter
 - 
