@@ -11,4 +11,3 @@ The game will created in Python
 ## Project Requirements
 - dictionary of words
 - guess counter
-- 
