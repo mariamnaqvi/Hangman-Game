@@ -3,7 +3,7 @@
 
 ## Project Description
 
-Create a game of hangman that takes in a fixed dictionary of numbers, creates a random word from the dictionary and allows the player to guess all the
+Create a game of hangman that takes in a fixed dictionary of words, creates a random word from the dictionary and allows the player to guess all the
 letters in the word in 10 guesses.
 
 The game will created in Python 
